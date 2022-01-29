@@ -1,5 +1,9 @@
 # Proof of concept for building compiler+arch specific libraries for Rust
 
+## Prerequisites
+
+* ifra repo -> ce_install install 'rust 1.58.0'
+
 ## Order of things: building everything with rustc
 
 * common/download-lib.sh
